@@ -12,29 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=woliveira1993&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=woliveira1993&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=woliveira1993&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-Olá, Washington. Quando submeter este formulário, o proprietário verá o seu nome e endereço de e-mail.
-Obrigatório
-1.O que você gostaria de conquistar profissionalmente até o fim deste ano (2024)?
-
-Busco aprimorar meus conhecimentos, mesmo para os que eu ja domino atualmente, sempre a algo a mais para aprender e por em pratica, alem obter as certificações para trazer mais credibilidade para o meu profissional.
-
-2.O que você gostaria de conquistar profissionalmente dentro de um ano?
-
-Quero evoluir meu lado pessoal e profissional para um nivel de conhecimento voltado para gestão por exemplo tocar um projeto/equipe e ter uma visão de negocio mais além.
-
-3.O que você gostaria de conquistar profissionalmente dentro de três anos?
-
-Assumir mais responsabilidades, ter a chance de crescer e conseguir fazer mais dentro do meu ambiente profissional, passando todo o conhecimento que ja tive e aplicando em projetos/pessoas.
-
-4.O que você gostaria de conquistar pessoalmente dentro de três anos?
-
-Do meu lado pessoal, desejo ter uma grande estabilidade financeira, ter tempo para viajar e aproveitar com a familia, conquistar meu primeiro imovel e também me graduar em mais areas que me chamam a atenção, mesmo sendo fora da area de tecnologia. 
